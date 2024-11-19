@@ -1,0 +1,27 @@
+Country	Infant deaths/1000	Health $ per capita	Obesity (%)	Educ. Expend(%GDP)	Average Income	Suicides/ 100,000	Life Expectancy	Universal health care
+Australia	4.3	4420	29.9	5.3	54420	10.6	82	Yes
+Austria	3.4	5016	20.1	5.6	45230	11.5	82	Yes
+Belgium	3.4	4611	22.1	6.4	41860	14.2	81	Yes
+Canada	4.6	4608	30.1	5.3	43660	9.8	82	Yes
+Denmark	4	4943	21	8.6	56730	8.8	81	Yes
+Finland	2.5	3984	22.8	7.2	44730	14.8	81	Yes
+France	3.3	4407	25.7	5.5	38950	12.3	83	Yes
+Germany	3.4	11.3	22.7	4.9	43660	9.2	81	Yes
+Greece	4.6	2245	25.1		26900	3.8	82	Yes
+Iceland	2.1	4012	23.9	7.8	56990	14	83	Yes
+Ireland	3.7	5131	27	5.3	52560	11	82	Yes
+Israel	3.5	2533	25.8	5.9	36190	5.9	82	Yes
+Italy	3.3	3272	23.7	4.2	31590	4.7	83	Yes
+Japan	2.0	4150	3.5	3.8	38000	18.5	84	Yes
+Luxembourg	3.4	7765	24.8	4.1	76660	8.7	82	Yes
+Malta	3.5		28.7	8.3	24140	6	82	Yes
+Netherlands	3.6	5343	21.9	5.6	46310	8.2	82	Yes
+New Zealand	4.5	3590	30.6	6.3	39070	9.6	81	Yes
+Norway	2.5	6567	24.8	7.4	62510	9.1	82	Yes
+Portugal	4.4	2631	22.1	5.3	19850	82	82	Yes
+Spain	3.3	3153	26.5	4.3	36340	5.1	83	Yes
+Sweden	2.6	5228	22	7.7	54630	11.1	83	Yes
+Switzerland	3.6	6935	21	5.1	81240	9.2	83	Yes
+Turkey	18.2	1064	29.4	4.8	11180	7.9	75	Yes
+United Kingdom	4.3	4003	29.8	5.8	42390	6.2	82	Yes
+United States	5.8	9451	35	4.9	56180	12.1	79	No

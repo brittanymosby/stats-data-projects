@@ -1,0 +1,47 @@
+Country	Infant deaths/1000	health $ per capita	Obesity %	Average Income	"Suicides/ 100,000"	Life expectancy	Universal Health Care?	% Diabetes	Leading Cause of Death	"Hospital beds/ 100,000"
+Algeria	21.9	362	23.6	4270	3.1	75	no	7.5	Stroke	17
+Argentina	11.1	605	26.5	11960	14.2	76	no	6	Heart Disease	50
+Australia	3	6031	29.9	54420	11.8	83	yes	5.1	Heart Disease	38
+Austria	2.9	5581	20.1	45230	16.4	82	yes	6.9	Heart Disease	76
+Belgium	3.3	4884	22.1	41860	20.5	81	yes	5.1	Heart Disease	62
+Brazil	14.6	947	20.1	8840	6.3	75	no	10.4	Heart Disease	22
+Burkina Faso	60.9	35	5.2	640	9.2	59	no	2.2	Influenza	4
+Canada	4.3	5292	30.1	43660	12.3	82	yes	7.4	Heart Disease	27
+China	9.2	420	7.3	8260	10	76	no	9.8	Stroke	42
+Colombia	13.6	569	20.7	6320	6.1	74	no	10	Heart Disease	15
+Denmark	2.9	6463	21	56730	12.2	81	yes	7.2	Heart Disease	31
+Ecuador	18.4	579	18	5820	7.5	76	no	9.2	Heart Disease	15
+Ethiopia	41.4	27	3.3	660	8.4	65	no	3.4	Influenza	2
+Finland	1.9	4612	22.8	44730	16.2	81	no	6	Heart Disease	49
+France	3.5	4959	25.7	38950	16.9	83	yes	5.3	Lung Cancer	65
+Germany	3.1	5411	22.7	43660	13.4	81	yes	7.4	Heart Disease	83
+Ghana	42.8	58	10.9	1380	6.9	62	yes	2.3	Stroke	9
+Greece	3.6	1743	25.1	18960	4.3	82	yes	5.2	Heart Disease	48
+Guatemala	24.3	233	16.4	3790	2.5	72	no	11.1	Influenza	6
+Iceland	1.6	4662	23.9	56990	13.1	83	yes	6.1	Heart Disease	32
+India	37.9	75	4.7	1680	15.7	68	no	9.3	Heart Disease	7
+Ireland	3	4239	27	52560	11.7	82	yes	4.4	Heart Disease	28
+Israel	3.2	2910	25.8	36190	5.5	82	yes	7.5	Heart Disease	31
+Italy	2.9	3258	23.7	31590	7.9	84	yes	5.1	Heart Disease	34
+Japan	2	3703	3.5	38000	19.6	84	yes	5.7	Stroke	134
+Kenya	36.6	78	5.9	1380	6.5	62	no	2.4	Influenza	14
+Lebanon	7.3	569	30.8	7680	3.1	80	no	13	Heart Disease	29
+Luxembourg	1.6	8138	24.8	76660	11.1	82	yes	4.7	Heart Disease	49
+Malta	5.2	2471	28.7	24140	6	82	yes	9.9	Heart Disease	47
+Mexico	11.9	677	27.6	9040	5	77	no	15.8	Diabetes	16
+Myanmar	40.7	20	2.9	1190	4.3	66	no	6.8	Stroke	9
+Netherlands	4.8	5694	21.9	46310	12.6	82	yes	5.5	Lung Cancer	47
+New Zealand	3.3	4896	30.6	39070	11.9	82	yes	7.3	Heart Disease	28
+Nicaragua	19.4	178	15.5	2050	9.5	75	no	9.2	Heart Disease	9
+Norway	2.2	9522	24.8	82330	10.9	82	yes	6	Heart Disease	39
+Peru	13.6	359	20.4	5950	5.8	75	no	6.9	Influenza	16
+Portugal	3	2097	22.1	19850	13.6	82	yes	9.9	Stroke	34
+Spain	3.6	2658	26.5	27520	8.5	83	yes	7.7	Heart Disease	30
+Sweden	2.4	6808	22	54630	15.4	83	yes	4.7	Heart Disease	26
+Switzerland	3.5	9674	21	81240	15.1	83	yes	6.1	Heart Disease	47
+Tunisia	12.1	785	27.1	3690	5.5	75	no	9.6	Heart Disease	22
+Turkey	11.6	1037	29.4	11180	8.7	75	yes	12.8	Heart Disease	27
+United Arab Emirates	5.9	2405	34.5	40480	2.9	78	yes	19.3	Heart Disease	12
+United Kingdom	3.5	3377	29.8	42390	8.5	82	yes	4.7	Heart Disease	28
+United States	5.6	9403	35	56180	14.3	79	no	10.8	Heart Disease	29
+"Venezuela, RB"	12.9	923	24.3	12500	3	74	no	12	Heart Disease	8
